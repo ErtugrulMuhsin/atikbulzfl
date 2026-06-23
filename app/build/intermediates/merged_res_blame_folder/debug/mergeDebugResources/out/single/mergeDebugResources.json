@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\9.0.0\\com.zfl.gerinokta.app-debug-32:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\9.0.0\\com.zfl.gerinokta.app-main-34:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\9.0.0\\com.zfl.gerinokta.app-debug-32:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\9.0.0\\com.zfl.gerinokta.app-main-34:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\9.0.0\\com.zfl.gerinokta.app-debug-32:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\9.0.0\\com.zfl.gerinokta.app-main-34:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\9.0.0\\com.zfl.gerinokta.app-debug-32:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\9.0.0\\com.zfl.gerinokta.app-main-34:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\9.0.0\\com.zfl.gerinokta.app-debug-32:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\9.0.0\\com.zfl.gerinokta.app-main-34:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\9.0.0\\com.zfl.gerinokta.app-debug-32:\\drawable_ic_github.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\9.0.0\\com.zfl.gerinokta.app-main-34:\\drawable\\ic_github.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\9.0.0\\com.zfl.gerinokta.app-debug-32:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\9.0.0\\com.zfl.gerinokta.app-main-34:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\9.0.0\\com.zfl.gerinokta.app-debug-32:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\9.0.0\\com.zfl.gerinokta.app-main-34:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\9.0.0\\com.zfl.gerinokta.app-debug-32:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\9.0.0\\com.zfl.gerinokta.app-main-34:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.zfl.gerinokta.app-debug-32:/drawable_zflogo.png.flat",
+        "source": "com.zfl.gerinokta.app-main-34:/drawable/zflogo.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\9.0.0\\com.zfl.gerinokta.app-debug-32:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\9.0.0\\com.zfl.gerinokta.app-main-34:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\9.0.0\\com.zfl.gerinokta.app-debug-32:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\9.0.0\\com.zfl.gerinokta.app-main-34:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\9.0.0\\com.zfl.gerinokta.app-debug-32:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\9.0.0\\com.zfl.gerinokta.app-main-34:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\9.0.0\\com.zfl.gerinokta.app-debug-32:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\9.0.0\\com.zfl.gerinokta.app-main-34:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\9.0.0\\com.zfl.gerinokta.app-debug-32:\\drawable-nodpi_app_icon.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\9.0.0\\com.zfl.gerinokta.app-main-34:\\drawable-nodpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\9.0.0\\com.zfl.gerinokta.app-debug-32:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\9.0.0\\com.zfl.gerinokta.app-main-34:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\9.0.0\\com.zfl.gerinokta.app-debug-32:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\9.0.0\\com.zfl.gerinokta.app-main-34:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\9.0.0\\com.zfl.gerinokta.app-debug-32:\\drawable_zflogo.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\9.0.0\\com.zfl.gerinokta.app-main-34:\\drawable\\zflogo.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\9.0.0\\com.zfl.gerinokta.app-debug-32:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\9.0.0\\com.zfl.gerinokta.app-main-34:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\9.0.0\\com.zfl.gerinokta.app-debug-32:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\9.0.0\\com.zfl.gerinokta.app-main-34:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\9.0.0\\com.zfl.gerinokta.app-debug-32:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\9.0.0\\com.zfl.gerinokta.app-main-34:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\.gradle\\daemon\\9.0.0\\com.zfl.gerinokta.app-debug-32:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\daemon\\9.0.0\\com.zfl.gerinokta.app-main-34:\\mipmap-mdpi\\ic_launcher.webp"
+    }
+]

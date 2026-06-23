@@ -1,0 +1,13 @@
+R_DEF: Internal format may change without notice
+local
+color brand_green
+color brand_green_dark
+drawable app_icon
+drawable ic_github
+drawable ic_launcher_background
+drawable zflogo
+mipmap ic_launcher
+mipmap ic_launcher_foreground
+mipmap ic_launcher_round
+string app_name
+style AppTheme
