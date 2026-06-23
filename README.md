@@ -67,7 +67,3 @@ Windows üzerinde:
 ## Yarışma
 
 Bu proje, Zonguldak Fen Lisesi öğrencileri tarafından Liselerde Bilim Uygulamaları Yarışması kapsamında hazırlanmıştır.
-
-## Lisans
-
-Bu depo için lisans bilgisi eklendiğinde burada belirtilecektir.
