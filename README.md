@@ -13,8 +13,17 @@ Geri dönüşüm noktalarına ulaşmayı kolaylaştırmak, atık türüne göre 
 - Kullanıcının konumuna göre en yakın toplama noktasını bulma
 - Material Design 3 temelli modern arayüz
 - Açık ve koyu tema seçimi
+- Koyu temada koyu harita görünümü
 - GitHub deposuna uygulama içinden erişim
 - Yeni konum önerileri ve geri bildirim için e-posta bağlantısı
+
+## Kurulum
+
+Uygulamayı kullanmak için GitHub Releases sayfasından en güncel APK dosyasını indirin:
+
+[Releases sayfasına git](https://github.com/ErtugrulMuhsin/atikbulzfl/releases)
+
+İndirdiğiniz APK dosyasını Android cihazınıza aktararak kurabilirsiniz. Android, bilinmeyen kaynaklardan uygulama yükleme izni isteyebilir; kurulum sırasında ekrandaki yönlendirmeleri takip edin.
 
 ## Geri Bildirim ve Konum Önerileri
 
@@ -29,10 +38,11 @@ Yeni bir atık toplama noktası ekletmek, hatalı bilgi bildirmek veya öneri pa
 - Material Components for Android
 - osmdroid
 - Gradle
+- OpenStreetMap tabanlı harita verileri
 
-## Kurulum
+## Katkıda Bulunma ve Bilgisayarda Derleme
 
-Projeyi klonlayın:
+Projeyi geliştirmek veya kendi bilgisayarınızda derlemek için depoyu klonlayın:
 
 ```bash
 git clone https://github.com/ErtugrulMuhsin/atikbulzfl.git
@@ -53,6 +63,12 @@ Windows üzerinde:
 .\gradlew.bat assembleDebug
 ```
 
+Oluşan APK dosyası genellikle şu konumdadır:
+
+```text
+app/build/outputs/apk/debug/app-debug.apk
+```
+
 ## Geliştiriciler
 
 - Ertuğrul Muhsin DANACI
@@ -67,3 +83,7 @@ Windows üzerinde:
 ## Yarışma
 
 Bu proje, Zonguldak Fen Lisesi öğrencileri tarafından Liselerde Bilim Uygulamaları Yarışması kapsamında hazırlanmıştır.
+
+## Lisans
+
+Bu proje Apache License 2.0 ile lisanslanmıştır. Ayrıntılar için `LICENSE` dosyasına bakabilirsiniz.
